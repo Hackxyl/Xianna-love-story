@@ -2658,7 +2658,7 @@
     font-size: 1.4rem;
   }
 
-  .floating-hearts {
-    display: none;
+  .floating-hearts span {
+    font-size: 0.75rem;
   }
 }
